@@ -1,0 +1,6 @@
+C:\Users\karan\Documents\Visual Studio 2013\Projects\Portfolio\Portfolio\bin\Portfolio.dll.config
+C:\Users\karan\Documents\Visual Studio 2013\Projects\Portfolio\Portfolio\bin\Portfolio.dll
+C:\Users\karan\Documents\Visual Studio 2013\Projects\Portfolio\Portfolio\bin\Portfolio.pdb
+C:\Users\karan\Documents\Visual Studio 2013\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.csprojResolveAssemblyReference.cache
+C:\Users\karan\Documents\Visual Studio 2013\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.dll
+C:\Users\karan\Documents\Visual Studio 2013\Projects\Portfolio\Portfolio\obj\Debug\Portfolio.pdb
